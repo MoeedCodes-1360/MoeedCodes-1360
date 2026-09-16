@@ -1,6 +1,6 @@
 # Hey, I'm Moeed 👋
 
-### Junior Web Developer | React • Django • JavaScript
+### Aspiring Web Developer | React • Django • JavaScript
 
 I'm a Computer Science student building web applications and learning how different parts of the web stack fit together.
 
